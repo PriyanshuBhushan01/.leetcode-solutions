@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Python solutions for DSA and interview preparation.
+Python solutions for DSA 
 
 ## Progress
 - Total solved: 1
